@@ -2,7 +2,7 @@
 
 - ##### 2016 – 2017
 
-  ### Lecora AB
+  ### Lecora AB (Vadstena, Sweden)
 
   #### Food production worker
 
@@ -12,7 +12,7 @@
 
 - ##### November 2012 – Oktober 2015
 
-  ### Tronity Inc.
+  ### Tronity Inc. (Remote)
 
   #### Android developer
   
@@ -23,7 +23,7 @@
 
   > _Java_ _Android_ _Gradle_ _Git_
 
-- ##### May 2005 – July 2009
+- ##### May 2005 – July 2009 (Motala, Sweden)
 
   ### Dometic
 
@@ -35,7 +35,7 @@
 
 - ##### 1998 - 2000
 
-  ### Wasadata Systems AB
+  ### Wasadata Systems AB (Vadstena, Sweden)
 
   #### System development and administration
 
