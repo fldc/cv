@@ -23,9 +23,9 @@
 
   > _Java_ _Android_ _Gradle_ _Git_
 
-- ##### May 2005 – July 2009 (Motala, Sweden)
+- ##### May 2005 – July 2009
 
-  ### Dometic
+  ### Dometic (Motala, Sweden)
 
   #### Technician
 
