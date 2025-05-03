@@ -22,7 +22,7 @@ Adult education program focusing on various subjects, including mathematics, Swe
 
 ### CNC Technician
 
-#### Lernia Yrkeshögskola, 2010 - 2012
+#### Yrkesakademien, 2010 - 2012
 
 > CNC programming and operation of CNC machines, including lathes and milling machines.
 
