@@ -2,10 +2,11 @@
 
 ### Proficient in
 
-- **C/C++** programming languages (well, still learning),
+- **C/C++** programming languages,
+- **Rust** programming language
 - **Linux** operating system and its internals,
 - Unix-like operating systems (**macOS**, **FreeBSD**, **OpenBSD**),
-- automating tasks using **Bash scripts** and **POSIX commands**.
+- automating tasks using **scripts** and **POSIX commands**.
 - Virtualization and containerization technologies (**Docker**),
 - solving **problems**,
 - Version Control Systems (**Git**, GitHub, GitLab),
