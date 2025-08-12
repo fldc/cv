@@ -2,8 +2,6 @@
 
 ### Proficient in
 
-- **C/C++** programming languages,
-- **Rust** programming language
 - **Linux** operating system and its internals,
 - Unix-like operating systems (**macOS**, **FreeBSD**, **OpenBSD**),
 - automating tasks using **scripts** and **POSIX commands**.
@@ -13,6 +11,8 @@
 
 ### Knowledge of
 
+- **C/C++** programming languages,
+- **Rust** programming language,
 - **Agile** methodologies (Scrum, Kanban),
 - **CI/CD** (Continuous Integration and Continuous Deployment),
 - **RTOS** (Real-Time Operating Systems),
