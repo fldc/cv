@@ -41,11 +41,6 @@
 
   **Wasadata Systems AB** was a company based in Sweden, specializing in **telecommunication systems** and IT consulting.
 
-  - Moved parts of the infrastructure in the company from **Windows NT** to **Linux**.
-  - Developed a system for automating the **installation** of **Router** and **Switch** configurations in Netadmin.
-  - Setted up a **mail server**, **DNS** and **web servers**.
-  - Configured **firewalls** and **networking** in cable networks.
-
   > _Linux_ _Apache_ _MySQL_ _PHP_ _Bash_ _Python_ _DNS_ _Postfix_ _Firewalls_ _Networking_ _Security_
 
 - ##### October 24th, 1982
