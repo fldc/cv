@@ -29,3 +29,10 @@ Adult education program focusing on various subjects, including mathematics, Swe
 Learning the principles of CNC programming and operation of CNC machines, including lathes and milling machines, and understanding the intricacies of tool selection and machining processes.
 
 > _#CNC_ _#CAD_ _#CAM_ _#Milling_ _#Turning_
+
+### Upper secondary school
+
+#### Information & kommunikationsteknik, 2001 - 2003
+
+> Computer science, business economics, marketing, and entrepreneurship.
+
