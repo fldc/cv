@@ -32,7 +32,7 @@ Learning the principles of CNC programming and operation of CNC machines, includ
 
 ### Upper secondary school
 
-#### Information & kommunikationsteknik, 2001 - 2003
+#### Information & kommunikationsteknik, 2000 - 2002
 
 > Computer science, business economics, marketing, and entrepreneurship.
 
