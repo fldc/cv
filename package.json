@@ -39,6 +39,5 @@
     "vite-plugin-svelte-md": "^0.1.9"
   },
   "browserslist": "last 2 versions",
-  "type": "module",
-  "main": "eslint.config.js"
+  "type": "module"
 }

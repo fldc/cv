@@ -17,7 +17,6 @@ export default [
       },
       parserOptions: {
         ecmaVersion: 2022,
-        projectService: true,
         sourceType: 'module',
       },
     },

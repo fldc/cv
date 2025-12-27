@@ -1,12 +1,12 @@
 <script>
   import { reveal } from '../actions/reveal.js';
 
-  export let id;
+  let { id, children } = $props();
 </script>
 
 <section {id} class="slide">
   <div class="wrapper" use:reveal>
-    <slot />
+    {@render children()}
   </div>
 </section>
 

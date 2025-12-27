@@ -23,7 +23,7 @@
 <main>
   {#each sections as section (section.id)}
     <Section id={section.id}>
-      <svelte:component this={section.component} />
+      <section.component />
     </Section>
   {/each}
 
