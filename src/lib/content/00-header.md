@@ -2,4 +2,4 @@
 
 # Fredrik Storm
 
-and I'm an aspiring systems developer.
+and I'm an systems developer.
