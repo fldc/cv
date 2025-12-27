@@ -1,5 +1,18 @@
 ## Experience
 
+- ##### October 2025 – Present
+
+  ### Elivra AB (Linköping, Sweden)
+
+  #### System developer
+  - Python development for backend services.
+  - C development for telecommunications systems.
+  - DevOps tasks including CI/CD pipeline management and cloud infrastructure.
+  - Collaborating with cross-functional teams to design and implement scalable solutions.
+  - AI and machine learning model integration.
+
+  > _Python_ _C_ _Docker_ _CI/CD_ _Telecommunications_ _Cloud_
+
 - ##### 2016 – 2017
 
   ### Lecora AB (Vadstena, Sweden)
@@ -7,7 +20,6 @@
   #### Food production worker
 
   **Lecora AB** is a company in Vadstena, Sweden that produces and packages food products.
-
   - Assembling, preparing, and packaging ready-made food products for retail and catering markets.
 
 - ##### November 2012 – Oktober 2015
@@ -15,9 +27,8 @@
   ### Tronity Inc. (Remote)
 
   #### Android developer
-  
-  **Tronity Inc.** was a company based in Seattle, WA, specializing in Android development consulting.
 
+  **Tronity Inc.** was a company based in Seattle, WA, specializing in Android development consulting.
   - Developed custom firmware for **Android** devices.
   - Developed **Android** applications in Java.
 
@@ -30,7 +41,6 @@
   #### Technician
 
   **Dometic** was a company based in Sweden, specializing in **refrigeration systems** for the **marine** and **automotive** industries.
-
   - Assembled and tested **refrigeration systems**.
 
 - ##### 1998 - 2000

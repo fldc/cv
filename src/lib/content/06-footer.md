@@ -1,1 +1,1 @@
-Built with **Svelte** and **NVim**.
+Built with **Svelte**.

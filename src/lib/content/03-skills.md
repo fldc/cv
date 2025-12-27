@@ -1,23 +1,26 @@
 ## Skills
 
-### Proficient in
+### Technologies and Methodologies
 
 - **Linux** operating system and its internals,
 - Unix-like operating systems (**macOS**, **FreeBSD**, **OpenBSD**),
-- automating tasks using **scripts** and **POSIX commands**.
+- **RTOS** (Real-Time Operating Systems),
 - Virtualization and containerization technologies (**Docker**),
-- solving **problems**,
 - Version Control Systems (**Git**, GitHub, GitLab),
-
-### Knowledge of
-
-- **C/C++** programming languages,
-- **Rust** programming language,
 - **Agile** methodologies (Scrum, Kanban),
 - **CI/CD** (Continuous Integration and Continuous Deployment),
-- **RTOS** (Real-Time Operating Systems),
+- **Android** development
+- **Embedded Systems** development,
+- **IoT** (Internet of Things) technologies,
+- **AI** (Artificial Intelligence) and **Machine Learning** basics,
+- **3D printing** technologies and workflows
+
+### Programming Languages
+
+- **C/C++** programming languages,
+- **Python** programming language,
+- **Rust** programming language,
 - **SQL** databases (MySQL, PostgreSQL, SQLite),
-- **Android** development (it's been a while),
 - **CNC** programming and operation of CNC machines,
 
 ### Additional skills

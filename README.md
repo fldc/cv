@@ -2,19 +2,18 @@
 
 # Fredrik Storm
 
-and I'm an embedded systems C/C++ developer.
+and I'm an systems developer.
 
 ---
 
 ## About me
 
-I'm currently studying at **Chas Academy** to become a systems developer with a focus on C/C++. 
-Building a solid foundation in programming and system design, with a strong interest in embedded systems and hardware development. I have a versatile background and a passion for learning new things.  
+I'm currently studying at **Chas Academy** to become a systems developer with a focus on C/C++, and currently doing an internship at **Elivra**.
+Building a solid foundation in programming and system design, with a strong interest in embedded systems and hardware development. I have a versatile background and a passion for learning new things.
 
-Geek and father in love with coding and electronics.
+Geek and father in love with coding.
 
-**I'm actively looking for a LIA (Lärande i Arbete) internship position.**
-
+- [fredrik.storm@elivra.se](mailto:fredrik.storm@elivra.se)
 - [fldc.se](https://fldc.se)
 - [fredrik@fldc.se](mailto:fredrik@fldc.se)
 - [fredrik.storm@chasacademy.se](mailto:fredrik.storm@chasacademy.se)
@@ -28,24 +27,35 @@ Geek and father in love with coding and electronics.
 
 ## Experience
 
+- ##### October 2025 – Present
+
+  ### Elivra AB (Linköping, Sweden)
+
+  #### System developer
+  - Python development for backend services.
+  - C development for telecommunications systems.
+  - DevOps tasks including CI/CD pipeline management and cloud infrastructure.
+  - Collaborating with cross-functional teams to design and implement scalable solutions.
+  - AI and machine learning model integration.
+
+  > _Python_ _C_ _Docker_ _CI/CD_ _Telecommunications_ _Cloud_
+
 - ##### 2016 – 2017
 
-  ### Lecora AB
+  ### Lecora AB (Vadstena, Sweden)
 
   #### Food production worker
 
   **Lecora AB** is a company in Vadstena, Sweden that produces and packages food products.
-
   - Assembling, preparing, and packaging ready-made food products for retail and catering markets.
 
 - ##### November 2012 – Oktober 2015
 
-  ### Tronity Inc.
+  ### Tronity Inc. (Remote)
 
   #### Android developer
-  
-  **Tronity Inc.** was a company based in Seattle, WA, specializing in Android development consulting.
 
+  **Tronity Inc.** was a company based in Seattle, WA, specializing in Android development consulting.
   - Developed custom firmware for **Android** devices.
   - Developed **Android** applications in Java.
 
@@ -53,26 +63,20 @@ Geek and father in love with coding and electronics.
 
 - ##### May 2005 – July 2009
 
-  ### Dometic
+  ### Dometic (Motala, Sweden)
 
   #### Technician
 
   **Dometic** was a company based in Sweden, specializing in **refrigeration systems** for the **marine** and **automotive** industries.
-
   - Assembled and tested **refrigeration systems**.
 
 - ##### 1998 - 2000
 
-  ### Wasadata Systems AB
+  ### Wasadata Systems AB (Vadstena, Sweden)
 
   #### System development and administration
 
   **Wasadata Systems AB** was a company based in Sweden, specializing in **telecommunication systems** and IT consulting.
-
-  - Moved parts of the infrastructure in the company from **Windows NT** to **Linux**.
-  - Developed a system for automating the **installation** of **Router** and **Switch** configurations in Netadmin.
-  - Setted up a **mail server**, **DNS** and **web servers**.
-  - Configured **firewalls** and **networking** in cable networks.
 
   > _Linux_ _Apache_ _MySQL_ _PHP_ _Bash_ _Python_ _DNS_ _Postfix_ _Firewalls_ _Networking_ _Security_
 
@@ -84,23 +88,27 @@ Geek and father in love with coding and electronics.
 
 ## Skills
 
-### Proficient in
+### Technologies and Methodologies
 
-- **C/C++** programming languages (well, still learning),
 - **Linux** operating system and its internals,
 - Unix-like operating systems (**macOS**, **FreeBSD**, **OpenBSD**),
-- automating tasks using **Bash scripts** and **POSIX commands**.
+- **RTOS** (Real-Time Operating Systems),
 - Virtualization and containerization technologies (**Docker**),
-- solving **problems**,
 - Version Control Systems (**Git**, GitHub, GitLab),
-
-### Knowledge of
-
 - **Agile** methodologies (Scrum, Kanban),
 - **CI/CD** (Continuous Integration and Continuous Deployment),
-- **RTOS** (Real-Time Operating Systems),
+- **Android** development
+- **Embedded Systems** development,
+- **IoT** (Internet of Things) technologies,
+- **AI** (Artificial Intelligence) and **Machine Learning** basics,
+- **3D printing** technologies and workflows
+
+### Programming Languages
+
+- **C/C++** programming languages,
+- **Python** programming language,
+- **Rust** programming language,
 - **SQL** databases (MySQL, PostgreSQL, SQLite),
-- **Android** development (it's been a while),
 - **CNC** programming and operation of CNC machines,
 
 ### Additional skills
@@ -140,13 +148,19 @@ Adult education program focusing on various subjects, including mathematics, Swe
 
 ### CNC Technician
 
-#### Lernia Yrkeshögskola, 2010 - 2012
+#### Yrkesakademien, 2010 - 2012
 
 > CNC programming and operation of CNC machines, including lathes and milling machines.
 
 Learning the principles of CNC programming and operation of CNC machines, including lathes and milling machines, and understanding the intricacies of tool selection and machining processes.
 
 > _#CNC_ _#CAD_ _#CAM_ _#Milling_ _#Turning_
+
+### Upper secondary school
+
+#### Information & kommunikationsteknik, 2000 - 2003
+
+> Computer science, business economics, marketing, and entrepreneurship.
 
 ---
 
@@ -170,4 +184,4 @@ One always needs to build something new.
 
 ---
 
-Built with **Svelte** and **NVim**.
+Built with **Svelte**.
