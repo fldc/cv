@@ -39,7 +39,10 @@
   @use '$lib/styles/theme';
 
   #me {
+    display: block;
     height: auto;
+    margin: 0 auto;
+    max-width: 300px;
     width: 100%;
   }
 
