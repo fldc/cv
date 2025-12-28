@@ -12,9 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 🛎️
-        uses: actions/checkout@v2
-        env:
-          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
+        uses: actions/checkout@v4
         with:
           persist-credentials: false
 
@@ -24,11 +22,9 @@ jobs:
           npm run build
 
       - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@3.5.5
-        env:
-          ACTIONS_ALLOW_UNSECURE_COMMANDS: 'true'
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          GITHUB_TOKEN: ${{ secrets.API_TOKEN_GITHUB }}
-          REPOSITORY_NAME: fldc/fldc.github.io
-          BRANCH: gh-pages
-          FOLDER: build
+          token: ${{ secrets.API_TOKEN_GITHUB }}
+          repository-name: fldc/fldc.github.io
+          branch: gh-pages
+          folder: build
