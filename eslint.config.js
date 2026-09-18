@@ -6,6 +6,9 @@ import globals from 'globals';
 import svelteParser from 'svelte-eslint-parser';
 
 export default [
+  {
+    ignores: ['build/', '.svelte-kit/', 'node_modules/'],
+  },
   js.configs.recommended,
   ...markdown.configs.recommended,
   prettier,
@@ -19,6 +22,9 @@ export default [
         ecmaVersion: 2022,
         sourceType: 'module',
       },
+    },
+    rules: {
+      'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
     },
   },
   {
