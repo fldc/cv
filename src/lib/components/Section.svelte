@@ -12,7 +12,7 @@
 
 <style lang="scss">
   @use 'sass:color';
-  @use '$lib/styles/theme';
+  @use '../styles/theme';
 
   .slide {
     align-items: center;

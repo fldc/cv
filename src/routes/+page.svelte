@@ -36,7 +36,7 @@
 
 <style lang="scss" global>
   @use 'sass:color';
-  @use '$lib/styles/theme';
+  @use '../lib/styles/theme';
 
   #me {
     display: block;

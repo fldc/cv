@@ -1,7 +1,7 @@
 <script>
   import { onMount } from 'svelte';
   import Header from '../content/00-header.md';
-  import { PageHeaderAscii } from '$lib/utils/ascii.js';
+  import { PageHeaderAscii } from '#lib/utils/ascii.js';
 
   let header;
 
