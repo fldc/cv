@@ -3,7 +3,7 @@ import markdown from '@eslint/markdown';
 import html from 'eslint-plugin-html';
 import prettier from 'eslint-plugin-prettier/recommended';
 import globals from 'globals';
-import svelteParser from 'svelte-eslint-parser';
+import svelte from 'eslint-plugin-svelte';
 
 export default [
   {
@@ -11,6 +11,9 @@ export default [
   },
   js.configs.recommended,
   ...markdown.configs.recommended,
+  ...[...svelte.configs.recommended, ...svelte.configs.prettier].map(
+    (config) => ({ ...config, files: config.files ?? ['**/*.svelte'] })
+  ),
   prettier,
   {
     languageOptions: {
@@ -25,18 +28,6 @@ export default [
     },
     rules: {
       'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
-    },
-  },
-  {
-    files: ['src/**/*.js'],
-  },
-  {
-    files: ['src/**/*.svelte'],
-    languageOptions: {
-      parser: svelteParser,
-      parserOptions: {
-        extraFileExtensions: ['.svelte'],
-      },
     },
   },
   {

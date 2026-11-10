@@ -41,6 +41,11 @@
       transform: none;
     }
 
+    @media (prefers-reduced-motion: reduce) {
+      transition: none;
+      transform: none;
+    }
+
     &:global(.show-no-animation) {
       transition: none;
     }

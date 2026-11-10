@@ -9,7 +9,8 @@
     "lint": "prettier --check . && eslint .",
     "format": "prettier --write .",
     "preversion": "npm run build-readme",
-    "postversion": "echo $(git push --tags)"
+    "postversion": "echo $(git push --tags)",
+    "test": "node --test"
   },
   "dependencies": {
     "reset.css": "^2.0.2",
@@ -45,5 +46,6 @@
   },
   "engines": {
     "node": ">=22.17"
-  }
+  },
+  "packageManager": "pnpm@12.19.0"
 }
