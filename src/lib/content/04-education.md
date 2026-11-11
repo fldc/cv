@@ -1,14 +1,22 @@
 ## Education
 
+### System Developer (.NET)
+
+#### TUC Yrkeshögskola, Aug 2026 - present
+
+> Vocational higher education in system development with a focus on .NET.
+
+System development with C#, object-oriented programming, databases and web development.
+
+> _#C#_ _#.NET_ _#SQL_ _#Git_
+
 ### System Developer (C/C++), Embedded Systems
 
-#### Chas Academy, 2024 - present
+#### Chas Academy, 2024 - 2026
 
 > System Developer with a focus on C/C++, hardware and embedded systems.
 
-Learning the principles of system development, focusing on C/C++ programming, hardware integration, and embedded systems design. Gaining hands-on experience with various tools and technologies used in the industry.
-
-Chas Challenge here
+Learned the principles of system development, focusing on C/C++ programming, hardware integration, and embedded systems design. Gained hands-on experience with various tools and technologies used in the industry.
 
 > _#C_ _#C++_ _#EmbeddedSystems_ _#Agile_ _#Scrum_ _#Kanban_ _#Git_ _#SQL_ _#RTOS_
 

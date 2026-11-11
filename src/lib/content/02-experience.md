@@ -1,6 +1,17 @@
 ## Experience
 
-- ##### October 2025 – Present
+- ##### May 2026 – Present
+
+  ### Mjölby kommun (Mjölby, Sweden)
+
+  #### Support assistant (stödassistent)
+  - Support and care in a group home for adults with disabilities, according to LSS.
+  - Documentation in LifeCare and medication handling under delegation.
+  - Planning of daily activities together with residents, relatives and colleagues.
+
+  > _LSS_ _LifeCare_ _Medication handling_ _Documentation_
+
+- ##### October 2025 – June 2026
 
   ### Elivra AB (Linköping, Sweden)
 
